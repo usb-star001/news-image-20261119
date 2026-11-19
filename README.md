@@ -2,7 +2,7 @@
 
 [![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
 [![rank](https://make.fun/badge/news-image-20261119/usb-star001/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
-[![reward](https://make.fun/badge/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/usb-star001/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 A one-page newspaper front page summing up the world's news of
 Thursday 19 November 2026, for the make.fun bounty
